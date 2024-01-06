@@ -1,2 +1,2 @@
-# Suomalainen-plugini
-Suomalainen plugini
+# Hallowen plugin
+Hallowen plugini
